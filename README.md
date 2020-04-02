@@ -1,19 +1,26 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".img/logo3x.png" width="250px" />
+    <img alt="Semana OmniStack" src="img/logo3x.png" width="250px" />
     <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
 </h1>
 
 <h2 align="center">
 
-  <img alt="Semana OmniStack" src=".img/rocket.svg" width="200px" />
+  <img alt="Semana OmniStack" src="img/rocket.svg" width="200px" />
   <br/>
   🚀 Semana Omnistack 11.0
 </h2>
 
 <p align="center">
+  <a href="https://rocketseat.com.br">
+    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
+</p>
+
+
+<p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
