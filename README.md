@@ -1,6 +1,5 @@
 <h1 align="center">
     <img alt="Semana OmniStack" src="img/logo3x.png" width="250px" />
-    <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
 </h1>
 
 <h2 align="center">
